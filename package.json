@@ -11,14 +11,9 @@
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
-    "ai": "latest",
-    "@ai-sdk/openai": "latest",
-    "zod": "^3.23.8"
-  },
-  "resolutions": {
-    "@ai-sdk/provider": "latest"
-  },
-  "overrides": {
-    "@ai-sdk/provider": "$@ai-sdk/provider"
+    "ai": "3.3.25",
+    "@ai-sdk/openai": "0.0.54",
+    "@ai-sdk/react": "0.0.45",
+    "zod": "3.23.8"
   }
 }
